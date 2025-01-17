@@ -1,4 +1,4 @@
-# SLToken
+# BSToken
 
 BSToken is an ERC20-based smart contract project, deployed and managed using Truffle. This project distributes tokens among various groups and manages vesting schedules for each group.
 
